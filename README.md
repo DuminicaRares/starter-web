@@ -15,3 +15,7 @@ Scopul vietii
 Everywhere
 
 ## How to contribute
+
+### Copyright
+
+Git.Training
