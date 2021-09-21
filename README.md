@@ -8,6 +8,10 @@ O simpla introducere
 
 ## Purpose
 
+Scopul vietii
+
 ## Deployment
+
+Everywhere
 
 ## How to contribute
