@@ -1,6 +1,6 @@
 # Starter Web Project
 
-Simple site
+Simple site! ADD MORE text!
 
 ## Introduction
 
