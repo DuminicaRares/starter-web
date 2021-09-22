@@ -18,4 +18,4 @@ Everywhere
 
 ### Copyright
 
-Git.Training
+Git.Training. All rights
