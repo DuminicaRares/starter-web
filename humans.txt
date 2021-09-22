@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    DRN			drn@gmail.com		@drn
 
 # THANKS
 
-    <name>
+    All my teachers!
 
 # TECHNOLOGY COLOPHON
 
